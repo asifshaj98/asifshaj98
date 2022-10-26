@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asifshaj98
 - 👀 I’m interested in Machine learning, Statistics and data analysis.
-- 🌱 Currently a Mathemtatics graduate from the UK looking to persue a career in IT
+- 🌱 Currently a Mathematics graduate from the UK looking to persue a career in Data
 - 📫 How to reach me www.linkedin.com/in/asif-shaj ,email: asif1232@hotmail.co.uk  
 
 <!---
