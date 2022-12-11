@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">Mathematics graduate|Aspiring Data Engineer</h3>
-<img align = "right" alt="coding" width = "300" src = "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asifshaj98&label=Profile%20views&color=0e75b6&style=flat" alt="asifshaj98" /> </p>
 
