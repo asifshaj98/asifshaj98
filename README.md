@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">Mathematics graduate|Aspiring Data Engineer</h3>
+<img align = "right" alt="coding" width = "400" src = "![image](https://user-images.githubusercontent.com/108241576/206934781-d218b7c1-f006-4887-90a9-9fa94f695b2b.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifshaj98&label=Profile%20views&color=0e75b6&style=flat" alt="asifshaj98" /> </p>
 
