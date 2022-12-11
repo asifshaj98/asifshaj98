@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">Mathematics graduate|Aspiring Data Engineer</h3>
-<img align = "right" alt="coding" width = "400" src = "![image](https://user-images.githubusercontent.com/108241576/206934781-d218b7c1-f006-4887-90a9-9fa94f695b2b.png)
-">
+<img align = "right" alt="coding" width = "300" src = "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifshaj98&label=Profile%20views&color=0e75b6&style=flat" alt="asifshaj98" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asifshaj98&label=Profile%20views&color=0e75b6&style=flat" alt="asifshaj98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifshaj98" alt="asifshaj98" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifshaj98" alt="asifshaj98" /></a> </p>
 
 - 🔭 I’m currently working on [Cafe-CLI-Application](https://github.com/asifshaj98/Cafe-CLI-application)
 
