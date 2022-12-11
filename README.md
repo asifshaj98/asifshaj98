@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python, Docker, AWS**
 
-- 👯 I’m looking to collaborate on **Cafe-ETL Pipeline**
-
 - 📫 How to reach me **asif1232@hotmail.co.uk**
 
 <h3 align="left">Connect with me:</h3>
