@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">Mathematics graduate|Aspiring Data Engineer</h3>
+
+<h1 align="center">:robot: Welcome to My Portfolio :robot:</h1>
+<h3 align="center"> Mathematics graduate | Aspiring Data Engineer</h3>
+
+<p align="center">
+  <img src="https://c.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif">
+  </br>
+  This a professional account . I keep all my notes here and most projects I work on will be here. Honestly it's more of a dumping ground but I will try to pin repos I think may be more useful or interesting to anyone who happens upon this place.
+  
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asifshaj98&label=Profile%20views&color=0e75b6&style=flat" alt="asifshaj98" /> </p>
 
