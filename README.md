@@ -13,11 +13,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifshaj98" alt="asifshaj98" /></a> </p>
 
-- 🔭 I’m currently working on [Cafe-CLI-Application](https://github.com/asifshaj98/Cafe-CLI-application)
+- 🔭 I’m currently working on [Retail_Data_Centralisation](https://github.com/asifshaj98/Retail_Data_Centralisation_Project-)
 
 - 🌱 I’m currently learning **Python, Docker, AWS**
-
-- 👯 I’m looking to collaborate on **Cafe-ETL Pipeline**
 
 - 📫 How to reach me **asif1232@hotmail.co.uk**
 
